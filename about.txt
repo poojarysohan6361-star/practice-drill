@@ -1,1 +1,1 @@
-Goal:Become a strong developer
+Learning Python and Git
