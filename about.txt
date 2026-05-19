@@ -1,1 +1,4 @@
-Learning Python and Git
+Name:Sohan Poojary
+Goal:Become a strong software developer
+Learning:Python and Git
+Current Focus:Hackathons and DSA
